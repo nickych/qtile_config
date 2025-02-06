@@ -33,6 +33,7 @@ This repository contains a custom configuration for [Qtile](https://www.qtile.or
    ```bash
    git clone https://github.com/your-username/qtile-config.git ~/.config/qtile
 
-Apply the configuration: After cloning, restart Qtile or run the following command to apply the configuration
+  3. **Configuration**:
+     Apply the configuration: After cloning, restart Qtile or run the following command to apply the configuration
   ```bash
   qtile cmd-obj -o cmd -f restart
